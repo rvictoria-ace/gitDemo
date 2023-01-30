@@ -16,7 +16,7 @@ export default function Home() {
       height={500}
     />
 
-    
+
     </>
   )
 }
