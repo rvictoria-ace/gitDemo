@@ -15,6 +15,13 @@ export default function Home() {
         height={500}
       />
       <Image
+        src="/../public/images/nyanners.webp"
+        alt="Picture of the author"
+        width={500}
+        height={500}
+      />
+
+<Image
         src="/../public/images/cyclops.jpg"
         alt="Picture of the author"
         width={500}
