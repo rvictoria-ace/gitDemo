@@ -1,7 +1,0 @@
-{
-    "products": [
-      { "id": "p1", "link1": "my-app/public/images/ironmouse.webp", "description": "This is product 1" },
-      { "id": "p2", "link2": "my-app/public/images/vei.webp", "description": "This is product 2" },
-      { "id": "p3", "link3": "my-app/public/images/nyanners.webp", "description": "This is product 3" }
-    ]
-  }
